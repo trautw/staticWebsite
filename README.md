@@ -1,6 +1,8 @@
 ## Experiment Area
 
-<H1>qweqwe</H1>
+
+
+<H1>See https://trautw.github.io/staticWebsite/ </H1>
 
 KAMERA
 <input type="file" accept="image/*;capture=camera">
