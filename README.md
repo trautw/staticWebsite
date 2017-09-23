@@ -2,7 +2,11 @@
 
 <H1>qweqwe</H1>
 
+KAMERA
 <input type="file" accept="image/*;capture=camera">
+VIDEO
+<input type="file" accept="video/*;capture=camcorder">
+
 
 ## Welcome to GitHub Pages
 
